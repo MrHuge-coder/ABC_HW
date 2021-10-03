@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/f1nc/Prog/ABC/01-proc-c++/Plane.h
+fstream
+-
+rnd.h
+/Users/f1nc/Prog/ABC/01-proc-c++/rnd.h
+
+/Users/f1nc/Prog/ABC/01-proc-c++/Ship.h
+fstream
+-
+rnd.h
+/Users/f1nc/Prog/ABC/01-proc-c++/rnd.h
+
+/Users/f1nc/Prog/ABC/01-proc-c++/Train.h
+fstream
+-
+rnd.h
+/Users/f1nc/Prog/ABC/01-proc-c++/rnd.h
+
+/Users/f1nc/Prog/ABC/01-proc-c++/Transport.cpp
+Transport.h
+/Users/f1nc/Prog/ABC/01-proc-c++/Transport.h
+
+/Users/f1nc/Prog/ABC/01-proc-c++/Transport.h
+Plane.h
+/Users/f1nc/Prog/ABC/01-proc-c++/Plane.h
+Train.h
+/Users/f1nc/Prog/ABC/01-proc-c++/Train.h
+Ship.h
+/Users/f1nc/Prog/ABC/01-proc-c++/Ship.h
+
+/Users/f1nc/Prog/ABC/01-proc-c++/rnd.h
+cstdlib
+-
+

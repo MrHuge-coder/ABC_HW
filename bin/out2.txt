@@ -1,0 +1,11 @@
+SecondTaskContainer contains 10 elements.
+0: It is Plane: max distance = 3, max weight = 15, speed = 18, distantion = 5 , Perfect Time = 0.277778
+1: It is Plane: max distance = 10, max weight = 8, speed = 9, distantion = 3 , Perfect Time = 0.333333
+2: It is Ship: displacement = 14. Ship Type - 1, speed = 8, distantion = 3 , Perfect Time = 0.375
+3: It is Ship: displacement = 12. Ship Type - 0, speed = 8, distantion = 4 , Perfect Time = 0.5
+4: It is Plane: max distance = 12, max weight = 15, speed = 14, distantion = 9 , Perfect Time = 0.642857
+5: It is Ship: displacement = 19. Ship Type - 0, speed = 17, distantion = 11 , Perfect Time = 0.647059
+6: It is Ship: displacement = 15. Ship Type - 1, speed = 17, distantion = 19 , Perfect Time = 1.11765
+7: It is Train: count of carriage = 5, speed = 11, distantion = 13 , Perfect Time = 1.18182
+8: It is Plane: max distance = 20, max weight = 2, speed = 12, distantion = 15 , Perfect Time = 1.25
+9: It is Train: count of carriage = 12, speed = 4, distantion = 19 , Perfect Time = 4.75
