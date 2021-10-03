@@ -1,11 +1,21 @@
-SecondTaskContainer contains 10 elements.
-0: It is Plane: max distance = 3, max weight = 15, speed = 18, distantion = 5 , Perfect Time = 0.277778
-1: It is Plane: max distance = 10, max weight = 8, speed = 9, distantion = 3 , Perfect Time = 0.333333
-2: It is Ship: displacement = 14. Ship Type - 1, speed = 8, distantion = 3 , Perfect Time = 0.375
-3: It is Ship: displacement = 12. Ship Type - 0, speed = 8, distantion = 4 , Perfect Time = 0.5
-4: It is Plane: max distance = 12, max weight = 15, speed = 14, distantion = 9 , Perfect Time = 0.642857
-5: It is Ship: displacement = 19. Ship Type - 0, speed = 17, distantion = 11 , Perfect Time = 0.647059
-6: It is Ship: displacement = 15. Ship Type - 1, speed = 17, distantion = 19 , Perfect Time = 1.11765
-7: It is Train: count of carriage = 5, speed = 11, distantion = 13 , Perfect Time = 1.18182
-8: It is Plane: max distance = 20, max weight = 2, speed = 12, distantion = 15 , Perfect Time = 1.25
-9: It is Train: count of carriage = 12, speed = 4, distantion = 19 , Perfect Time = 4.75
+SecondTaskContainer contains 20 elements.
+0: It is Plane: max distance = -529, max weight = 2, speed = 0, distantion = -1 , Perfect Time = -inf
+1: It is Train: count of carriage = 15722, speed = -6652, distantion = 39296 , Perfect Time = -5.9074
+2: It is Plane: max distance = 465, max weight = 8, speed = -79, distantion = 45 , Perfect Time = -0.56962
+3: It is Ship: displacement = 23559. Ship Type - 2, speed = 90494, distantion = 45 , Perfect Time = 0.000497271
+4: It is Plane: max distance = 30, max weight = 89, speed = -20203, distantion = -23 , Perfect Time = 0.00113844
+5: It is Ship: displacement = -827. Ship Type - 0, speed = 16280, distantion = 45 , Perfect Time = 0.00276413
+6: It is Ship: displacement = 37265. Ship Type - 2, speed = 76763, distantion = 5678 , Perfect Time = 0.0739679
+7: It is Train: count of carriage = 11, speed = 82220, distantion = 8928 , Perfect Time = 0.108587
+8: It is Train: count of carriage = 54125, speed = 77569, distantion = 23201 , Perfect Time = 0.299101
+9: It is Ship: displacement = 18992. Ship Type - 1, speed = 14816, distantion = 4567 , Perfect Time = 0.308248
+10: It is Ship: displacement = -7362. Ship Type - 0, speed = 75852, distantion = 45678 , Perfect Time = 0.602199
+11: It is Train: count of carriage = 22830, speed = 20963, distantion = 14127 , Perfect Time = 0.673902
+12: It is Train: count of carriage = 12432, speed = 24494, distantion = 40241 , Perfect Time = 1.64289
+13: It is Train: count of carriage = 8, speed = 3, distantion = 6 , Perfect Time = 2
+14: It is Plane: max distance = 3, max weight = 2, speed = 1, distantion = 3 , Perfect Time = 3
+15: It is Train: count of carriage = -1754, speed = 20098, distantion = 80267 , Perfect Time = 3.99378
+16: It is Plane: max distance = -8, max weight = 5, speed = 19, distantion = 993 , Perfect Time = 52.2632
+17: It is Plane: max distance = 7, max weight = 6, speed = 2, distantion = 111110 , Perfect Time = 55555
+18: It is Plane: max distance = -2, max weight = -1, speed = -4, distantion = -5.46252e+07 , Perfect Time = 1.36563e+07
+19: It is Ship: displacement = 67. Ship Type - 1, speed = 0, distantion = 198374 , Perfect Time = inf

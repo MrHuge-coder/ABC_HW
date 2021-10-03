@@ -21,7 +21,7 @@ void In(Ship &t, ifstream &ifst) {
             t.type = t.tug;
             break;
         default:
-            cout << "Wrong Sheep Type Number";
+            cout << t.displacement <<" - Wrong Ship Type Number \n";
     }
 }
 
